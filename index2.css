@@ -27,11 +27,12 @@ text-align: center}
     border-width: 1px;
 }
 .arrw{
-   margin-left: 40.125rem;
+   margin-left:  57.125rem;
    margin-top: 0.0625rem;
 }
 #back{font-size: 250%;
-
+    margin-top:0.1%
+display:inline;
     color: gray;
 }
 .fitem1{
@@ -57,7 +58,7 @@ box-shadow:8px 6px 15px grey;
 
     color: orangered;
     margin-top: 45px;
-    margin-left: 350px;
+    margin-left: 236px;
     margin-bottom: 32px;
     margin-right: 1px;
 }
@@ -67,8 +68,9 @@ a{
 
 .pline{
     position: relative;
-    left: 12%;
-    width: 76%;}
-    #back{
+    left: 19%;
+    width: 99%;}
+/*     #back{
         display: inline;
-    }
+        margin-left:20%
+    } */
