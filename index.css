@@ -3,11 +3,11 @@ body{
 }
 .fcontainer{
     display: flex;
-    zoom: 105%;
+    zoom: 125%;
     align-self: center;
    flex-wrap: wrap;
-   padding: 17px 114px 86px 87px;  
-    margin: 3px 100px 208px 205px;
+   padding:17px 114px 86px 87px;  
+    margin: 28px 115px 167px 279px
     position: relative;
     
 }
