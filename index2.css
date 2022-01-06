@@ -9,7 +9,7 @@ body{
 
 text-align: center}
 .hr1{     width: 11rem;
-    margin: 1rem 1rem 1rem 24rem;
+    margin: 1rem 1rem 1rem 37rem;
     position: relative;
     bottom: 3.6rem;
     border: 2px solid orangered;
@@ -21,7 +21,7 @@ text-align: center}
     margin: 1rem 1rem 1rem 24rem;
     position: relative;
     bottom: 4.6rem;
-    left: 31rem;
+    left: 45rem;
     border: 1px solid orangered;
     background-color:orangered;
     border-width: 1px;
@@ -38,7 +38,7 @@ text-align: center}
     align-content: center;
     border: 2px solid orangered;
     padding: 42px 46px 2px;
-    margin: 76px 565px 45px;
+    margin: 61px 769px 45px;
 font-size: larger;
 text-align: center;
 border-radius: 10px; 
@@ -57,7 +57,7 @@ box-shadow:8px 6px 15px grey;
 
     color: orangered;
     margin-top: 45px;
-    margin-left: 197px;
+    margin-left: 350px;
     margin-bottom: 32px;
     margin-right: 1px;
 }
@@ -67,8 +67,8 @@ a{
 
 .pline{
     position: relative;
-    left: 14%;
-    width: 105%;}
+    left: 12%;
+    width: 76%;}
     #back{
         display: inline;
     }
