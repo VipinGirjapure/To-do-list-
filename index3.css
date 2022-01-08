@@ -1,6 +1,6 @@
 .fcontainer{
     display: flex;
-    zoom: 105%;
+    zoom: 138%;
     align-self: center;
    flex-wrap: wrap;
    padding: 17px 114px 86px 87px;  
@@ -89,9 +89,9 @@ a:hover{
 text-align: center;
 padding: 31px 77px 38px;
 color: orangered;
-position: absolute;
-top: 258px;
-left: 561px;
+position: absolute;   
+top: 341px;
+left: 767px;
 bottom: auto;
 font-size: larger;
 font-family: Arial, Helvetica, sans-serif;
