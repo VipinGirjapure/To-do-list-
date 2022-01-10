@@ -3,7 +3,7 @@ body{
 }
 .fcontainer{
     display: flex;
-    zoom: 125%;
+    zoom: 100%;
     align-self: center;
    flex-wrap: wrap;
    padding:17px 114px 86px 87px;  
